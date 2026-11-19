@@ -1,1 +1,1 @@
-# fef-assign2
+Remember your standard assignment comments, commit as you go, and push your final version before the due date.
